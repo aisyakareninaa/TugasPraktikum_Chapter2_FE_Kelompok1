@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# What's On Our Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Eunoia Group from SMK Telkom Malang
 
-## Available Scripts
+## Build by : 
 
-In the project directory, you can run:
+1. Aisya Karenina Ramadhani
+2. Alya Rusyda Maharistya
+3. Celline Regia Yasshinta
+4. Gizella Ratu Pramesti
+
+## Technologies and Softwares :
+
 
 ### `npm start`
 
