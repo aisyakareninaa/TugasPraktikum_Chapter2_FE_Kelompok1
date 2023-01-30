@@ -44,7 +44,7 @@ function App() {
       {isLoading ? (
         <h1 className="text-4xl text-center mx-auto mt-24 h-60">Loading...</h1>
       ) : (
-        <div className="grid grid-cols-4 gap-4">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
           {data.filter((image) => {
             return search.toLowerCase() === '' ? image : image.name.toLowerCase().includes(search)
           }).map((image) => (
