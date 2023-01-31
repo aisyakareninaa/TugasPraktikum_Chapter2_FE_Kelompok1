@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-// import Baby from '../assets/Baby'
 import { Menu } from "react-ionicons";
 
 const Navbar = () => {
@@ -18,13 +17,13 @@ const Navbar = () => {
   return (
     <nav
       className={`fixed w-full left-0 top-0 z-[999] ${
-        sticky ? "bg-white/60 text-gray-900" : "text-white"
+        sticky ? "bg-white/70 text-gray-900" : "text-white"
       }`}
     >
       <div className="flex items-center justify-between">
         <div className="mx-7">
           <h4 className="flex items-center justify-start text-4xl uppercase font-bold">
-            <span className="text-indigo-600 text-4xl">EBS</span>
+            <span className="text-indigo-600 text-4xl">EHS</span>
           </h4>
         </div>
         <div
@@ -50,7 +49,7 @@ const Navbar = () => {
         </div>
         <div
           className={`md:hidden text-eunoiatext absolute w-2/5 h-screen
-      px-7 py-2 font-medium bg-white top-0 duration-300 ${
+      px-7 py-2 font-medium bg-white/90 top-0 duration-300 ${
         open ? "right-0" : "right-[-100%]"
       }`}
         >

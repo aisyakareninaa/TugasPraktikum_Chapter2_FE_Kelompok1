@@ -34,6 +34,11 @@ Take a look at [wireframe and design](https://www.figma.com/file/KcIM8jqiSt0DXQw
 
 Click on our [Repository](https://github.com/aisyakareninaa/TUBES_Chapter2_FE_Kelompok1)
 
+## Our Features
+<li> Responsive website
+<li> Comprehensive UI design
+<li> Sort and filter products
+<li> Search products
 
 ## Features
 <li> Responsive website
@@ -41,3 +46,4 @@ Click on our [Repository](https://github.com/aisyakareninaa/TUBES_Chapter2_FE_Ke
 <li> Search products
 <li> Sort and filter products
 <li> Responsive website
+=======
