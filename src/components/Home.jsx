@@ -14,7 +14,7 @@ const Home = () => {
               Eunoia
               <br />
             </span>
-            Happy Shop
+            Baby Shop
           </h1>
           <h4 className="md:text-2xl text-lg mr-24 ml-24 md:m-0 md:leading-normal leading-5 mt-4 font-bold text-black">
           Life is hard enough already. Let us make it a little easier. With EHS find ur happines here.          </h4>
