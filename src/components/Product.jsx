@@ -3,14 +3,12 @@ import data from "../components/data.json";
 import ImageCard from "./ImageCard";
 
 function App() {
-  // const [searchTerm, setSearchTerm] = useState("");
   const [search, setSearch] = useState('');
-  // const [isLoading, setIsLoading] = useState(true);
   return (
         <div className="container mx-auto mb-16">
       <div className="text-center font-bold">
-        <h1 className="text-4xl text-indigo-600">Get your</h1>
-        <h2 className="text-4xl text-indigo-600 mb-8 mt-4">hapiness now!</h2>
+        <h1 className="text-4xl text-indigo-600">Shop your</h1>
+        <h2 className="text-4xl text-indigo-600 mb-8 mt-4">product now!</h2>
       </div>
       <div className="max-w-sm rounded overflow-hidden my-10 mx-auto mt-0">
       <form className="w-full max-w-sm bg-white/60 p-1">
@@ -19,7 +17,7 @@ function App() {
             onChange={(e) => setSearch(e.target.value)}
             className="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
             type="text"
-            placeholder="Search Image..."
+            placeholder="Search Baby Product..."
           />
         </div>
       </form>
