@@ -15,7 +15,7 @@ const ImageCard = ({ image }) => {
         <div className="text-indigo-400">
           <ul>
             <li>{res}...</li>
-            <li className="text-base mt-1">
+            <li className="text-base">
               <strong>{image.price}</strong>
             </li>
             <li className="text-indigo-300 text-sm">
