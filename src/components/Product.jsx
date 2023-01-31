@@ -3,9 +3,9 @@ import data from "../components/data.json";
 import ImageCard from "./ImageCard";
 
 function App() {
-  const [searchTerm, setSearchTerm] = useState("");
+  // const [searchTerm, setSearchTerm] = useState("");
   const [search, setSearch] = useState('');
-  const [isLoading, setIsLoading] = useState(true);
+  // const [isLoading, setIsLoading] = useState(true);
   return (
         <div className="container mx-auto mb-16">
       <div className="text-center font-bold">
@@ -24,24 +24,18 @@ function App() {
         </div>
       </form>
     </div>
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+        
           {
-            data 
-              .filter((val) => {
-                if(searchTerm == ""){
-                  return val;
-                }else if(val.title.toLowerCase().includes(searchTerm.toLowerCase())){
-                  return val;
-                }
-              })
-              .map((val) => {
-                return(
-                  <ImageCard key={val.id} image={val} coba={val.image} />
-                )
-              })
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+            {data.filter((image) => {
+              return search.toLowerCase() === '' ? image : image.name.toLowerCase().includes(search)
+            }).map((image) => (
+              <ImageCard key={image.id} image={image} coba={image.image} />
+            ))}
+          </div>
           }
         </div>
-      </div>
+    
   )
 }
 
