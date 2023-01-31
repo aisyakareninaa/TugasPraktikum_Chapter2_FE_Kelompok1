@@ -2,16 +2,16 @@ import React from "react";
 
 const ImageCard = ({ image }) => {
   const desc = image.description;
-  const res = desc.substr(0, 20);
+  const res = desc.substr(0, 40);
   return (
-    <a href="" className="bg-white rounded-md overflow-hidden mx-auto w-64 space-x-0">
+    <a href="" className="bg-white rounded-lg overflow-hidden mx-auto w-64 space-x-0">
       <img
         src={image.image}
         alt=""
         className="w-full h-48 md:h-48 object-contain p-2 my-5 rounded-md"
       />
       <div className="px-6 py-8">
-        <div className="font-bold text-indigo-400 text-lg">{image.name}</div>
+        <div className="font-bold text-indigo-400 text-lg mb-3">{image.name}</div>
         <div className="text-indigo-400">
           <ul>
             <li>{res}...</li>
