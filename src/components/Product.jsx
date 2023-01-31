@@ -17,7 +17,7 @@ function App() {
             onChange={(e) => setSearch(e.target.value)}
             className="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
             type="text"
-            placeholder="Search Image..."
+            placeholder="Search Baby Product..."
           />
         </div>
       </form>
