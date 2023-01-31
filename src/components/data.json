@@ -1,0 +1,202 @@
+[
+    {
+      "id": "sku2458",
+      "name": "Fudge enak - Chocolate Fudge",
+      "price": 83000,
+      "image": "https://img.freepik.com/free-photo/cookie-cocoa-unhealthy-homemade-square_1339-103.jpg?w=900&t=st=1675150683~exp=1675151283~hmac=6bc7584e33c190a6788e269050e88f1dc9491ab413f1b1e14de1b92ee8b4950a",
+      "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+      "isDeleted": false,
+      "category": "Pre-Order",
+      "expiryDate": "2022-07-24"
+    },
+    {
+      "id": "sku6942",
+      "name": "Bagelers - Cinn / Brown",
+      "price": 149000,
+      "image": "https://img.freepik.com/free-photo/sliced-bread-with-turkish-bagel-side-view-white-gray-surface_176474-6215.jpg?w=900&t=st=1675150733~exp=1675151333~hmac=76d87aba34257d6a9e9ae2ac26e256b0e3cd2dc22eb2a1ac5a5c68907cea9411",
+      "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+      "isDeleted": false,
+      "category": "Ready",
+      "expiryDate": null
+    },
+    {
+      "id": "sku0163",
+      "name": "Blueberries - Frozen",
+      "price": 181000,
+      "image": "https://img.freepik.com/free-photo/blueberry_1203-3673.jpg?w=996&t=st=1675151987~exp=1675152587~hmac=745452032c602fc21490b3fbd0127c1f8955d4f90d48fa6f3ff18839ad38f873",
+      "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "isDeleted": false,
+      "category": "Barang Bekas",
+      "expiryDate": "2022-10-04"
+    },
+    {
+      "id": "sku3286",
+      "name": "Wine - White, Ej Gallo",
+      "price": 45000,
+      "image": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+      "isDeleted": false,
+      "category": "Pre-Order",
+      "expiryDate": null
+    },
+    {
+      "id": "sku6250",
+      "name": "Table Cloth 54x72 Colour",
+      "price": 199000,
+      "image": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+      "isDeleted": false,
+      "category": "Pre-Order",
+      "expiryDate": null
+    },
+    {
+      "id": "sku7460",
+      "name": "Sauce Tomato Pouch",
+      "price": 487000,
+      "image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
+      "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "isDeleted": false,
+      "category": "Ready",
+      "expiryDate": "2022-12-09"
+    },
+    {
+      "id": "sku1863",
+      "name": "Ice Cream - Life Savers",
+      "price": 451000,
+      "image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
+      "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "isDeleted": false,
+      "category": "Pre-Order",
+      "expiryDate": "2022-11-04"
+    },
+    {
+      "id": "sku3824",
+      "name": "Oregano - Dry, Rubbed",
+      "price": 51000,
+      "image": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+      "isDeleted": false,
+      "category": "Barang Bekas",
+      "expiryDate": null
+    },
+    {
+      "id": "sku5489",
+      "name": "Tortillas - Flour, 10",
+      "price": 62000,
+      "image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+      "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "isDeleted": false,
+      "category": "Barang Bekas",
+      "expiryDate": "2022-05-09"
+    },
+    {
+      "id": "sku5983",
+      "name": "Mudslide",
+      "price": 105000,
+      "image": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+      "isDeleted": false,
+      "category": "Pre-Order",
+      "expiryDate": "2022-12-23"
+    },
+    {
+      "id": "sku2813",
+      "name": "Bread - Malt",
+      "price": 292000,
+      "image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+      "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "isDeleted": false,
+      "category": "Barang Bekas",
+      "expiryDate": null
+    },
+    {
+      "id": "sku9578",
+      "name": "Wine - Cotes Du Rhone Parallele",
+      "price": 289000,
+      "image": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+      "isDeleted": false,
+      "category": "Barang Bekas",
+      "expiryDate": "2022-06-18"
+    },
+    {
+      "id": "sku5656",
+      "name": "Truffle Shells - Semi - Sweet",
+      "price": 93000,
+      "image": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "isDeleted": false,
+      "category": "Pre-Order",
+      "expiryDate": null
+    },
+    {
+      "id": "sku5785",
+      "name": "Oil - Safflower",
+      "price": 492000,
+      "image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
+      "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+      "isDeleted": false,
+      "category": "Ready",
+      "expiryDate": "2022-09-29"
+    },
+    {
+      "id": "sku3111",
+      "name": "Longos - Chicken Curried",
+      "price": 21000,
+      "image": "http://dummyimage.com/200x200.png/cc0000/ffffff",
+      "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+      "isDeleted": false,
+      "category": "Ready",
+      "expiryDate": null
+    },
+    {
+      "id": "sku9440",
+      "name": "Napkin White",
+      "price": 447000,
+      "image": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "isDeleted": false,
+      "category": "Ready",
+      "expiryDate": "2022-12-17"
+    },
+    {
+      "id": "sku9393",
+      "name": "Cookies Cereal Nut",
+      "price": 277000,
+      "image": "http://dummyimage.com/200x200.png/dddddd/000000",
+      "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+      "isDeleted": false,
+      "category": "Pre-Order",
+      "expiryDate": null
+    },
+    {
+      "id": "sku3595",
+      "name": "Filo Dough",
+      "price": 150000,
+      "image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+      "isDeleted": false,
+      "category": "Ready",
+      "expiryDate": "2022-05-18"
+    },
+    {
+      "id": "sku7895",
+      "name": "Juice - Pineapple, 48 Oz",
+      "price": 76000,
+      "image": "http://dummyimage.com/200x200.png/ff4444/ffffff",
+      "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+      "isDeleted": false,
+      "category": "Barang Bekas",
+      "expiryDate": null
+    },
+    {
+      "id": "sku0193",
+      "name": "Chocolate - Dark",
+      "price": 367000,
+      "image": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
+      "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+      "isDeleted": false,
+      "category": "Barang Bekas",
+      "expiryDate": "2022-06-05"
+    }
+  ]
