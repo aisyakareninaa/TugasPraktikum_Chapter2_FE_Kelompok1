@@ -15,11 +15,11 @@ const desc = image.description;
             <li>
               {res}...
             </li>
-            <li className="text-base">
-              <strong>{image.price}</strong>    
-            </li>
-            <li className="text-md">
+            <li className="text-base mt-1 mb-1">
               <strong>Rp.{image.price},-</strong>
+            </li>
+            <li className="text-indigo-300 text-sm">
+              {image.category}
             </li>
           </ul>
         </div>
