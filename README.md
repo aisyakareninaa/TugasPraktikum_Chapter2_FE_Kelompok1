@@ -40,10 +40,4 @@ Click on our [Repository](https://github.com/aisyakareninaa/TUBES_Chapter2_FE_Ke
 <li> Sort and filter products
 <li> Search products
 
-## Features
-<li> Responsive website
-<li> Comprehensive UI design
-<li> Search products
-<li> Sort and filter products
-<li> Responsive website
-=======
+
