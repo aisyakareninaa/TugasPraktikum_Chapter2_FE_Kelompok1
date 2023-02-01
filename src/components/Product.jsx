@@ -1,12 +1,12 @@
-import React, { Fragment, useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import data from '../components/data.json';
 import ImageCard from './ImageCard';
 
 function App() {
   const [search, setSearch] = useState('');
   const [isLoading] = useState(false);
-  const [showModal, setShowModal] = useState(false);
-  const [q, setQ] = useState('');
+  const [setShowModal] = useState(false);
+  const [q] = useState('');
   const [searchParam] = useState(['name', 'description', 'category']);
   const [labelCategory] = useState([
     { value: 'All', label: 'All (Filter By Category)' },
