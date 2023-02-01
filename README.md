@@ -4,10 +4,10 @@ Eunoia Group from SMK Telkom Malang
 
 ## Build by : 
 
-1. Aisya Karenina Ramadhani
-2. Alya Rusyda Maharistya
-3. Celline Regia Yasshinta
-4. Gizella Ratu Pramesti
+1. Aisya Karenina Ramadhani [@aisyakareninaa](https://github.com/aisyakareninaa)
+2. Alya Rusyda Maharistya [@AlyaRusyda](https://github.com/AlyaRusyda)
+3. Celline Regia Yasshinta [@CellineLin](https://github.com/CellineLin)
+4. Gizella Ratu Pramesti [@gizsella](https://github.com/gizsella)
 
 ## Technologies and Softwares :
 ### UI/UX and Wireframe
@@ -39,4 +39,7 @@ Click on our [Repository](https://github.com/aisyakareninaa/TUBES_Chapter2_FE_Ke
 <li> Comprehensive UI design
 <li> Sort and filter products
 <li> Search products
+
+
+
 
