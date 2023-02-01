@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../assets/foto.png';
+import img from '../assets/img.png';
 
 const Home = () => {
   return (
@@ -14,10 +14,10 @@ const Home = () => {
               Eunoia
               <br />
             </span>
-            Happy Shop
+            Baby Shop
           </h1>
           <h4 className="md:text-2xl text-lg mr-24 ml-24 md:m-0 md:leading-normal leading-5 mt-4 font-bold text-black">
-          Life is hard enough already. Let us make it a little easier. With EHS find ur happines here.          </h4>
+          Trusted essentials for your baby. Find the cutest outfits and playable plushie from head to toe and dazzling heaven just on baby angel. It is the place where your baby comes first         </h4>
           <a href='#product' className="btn-primary mt-8 w-40 mb-24 text-center md:text-left">Get Started</a>
         </div>
       </div>
