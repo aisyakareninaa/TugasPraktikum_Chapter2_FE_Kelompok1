@@ -70,9 +70,9 @@ function App() {
         <span className="focus"></span>
       </div>
       </div>
-      {/* <div className="text-center text-indigo-500 text-lg mb-8">
+      <div className="text-center text-indigo-500 text-lg mb-8">
         <p>{data.length} Product found</p>
-      </div> */}
+      </div>
       {isLoading && <h1 className="text-5xl text-center mx-auto mt-32">Loading ....</h1>}
       {!isLoading && data.length === 0 && (
         <h1 className="text-5xl text-center mx-auto mt-32">No Images Found</h1>
