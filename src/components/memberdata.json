@@ -1,0 +1,42 @@
+[
+    {
+      "id": "sku2458",
+      "name": "Aisya Karenina Ramadhani",
+      "price": 24102005,
+      "image": "https://media.licdn.com/dms/image/D5603AQEp-PLSpH6SBA/profile-displayphoto-shrink_800_800/0/1674543509733?e=1680739200&v=beta&t=8dB4IZMXI5XFXbPNER_JxOyuY814yo6BF5C2EtRzgZI ",
+      "description": " a person who aspires to work as a web developer.",
+      "isDeleted": false,
+      "category": "Tulungagung",
+      "expiryDate": "2022-07-24"
+    },
+    {
+      "id": "sku6942",
+      "name": "Alya Rusyda Maharistya",
+      "price": 31072006,
+      "image": "https://media.licdn.com/dms/image/D5603AQGgT11JV722fA/profile-displayphoto-shrink_800_800/0/1669542217122?e=1680739200&v=beta&t=gT74kvaWcpuJi6Jv64LQF0RF7rlX5xk6cMGQmLJuZ5U ",
+      "description": "a game and web developing enthusiast.",
+      "isDeleted": false,
+      "category": "Solo",
+      "expiryDate": null
+    },
+    {
+      "id": "sku0163",
+      "name": "Celline Regia Yasshinta",
+      "price": 13012006,
+      "image": "https://media.licdn.com/dms/image/D4D03AQFFeRw8KpkvQA/profile-displayphoto-shrink_800_800/0/1671000610787?e=1680739200&v=beta&t=cDXz07EwAcu6B0S-Nt3cmIhv2SK_0DeooeELeJYEqcc ",
+      "description": "willingly to be an alpha and independent.",
+      "isDeleted": false,
+      "category": "Banyuwangi",
+      "expiryDate": "2022-10-04"
+    },
+    {
+      "id": "sku3286",
+      "name": "Gizella Ratu Pramesti",
+      "price": 16122005,
+      "image": "https://media.licdn.com/dms/image/D4E03AQES81kS1Q0pAg/profile-displayphoto-shrink_800_800/0/1672655134074?e=1680739200&v=beta&t=T8-OW8E1--Ucp967mY20XmXQS48QUWuS7Kxe8kMPGak",
+      "description": "beauty, brave, and behavior.",
+      "isDeleted": false,
+      "category": "Kediri",
+      "expiryDate": null
+    }
+]
