@@ -6,6 +6,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
   const menuLinks = [
     { name: "HOME", link: "#home" },
+    { name: "MEMBER", link: "#member" },
     { name: "PRODUCT", link: "#product" },
   ];
   useEffect(() => {
