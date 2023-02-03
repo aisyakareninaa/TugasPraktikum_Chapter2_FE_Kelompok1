@@ -7,7 +7,7 @@ module.exports = {
         Poppins: "Poppins",
       },
       colors: {
-        eunoia: "#C3ACD0",
+        eunoia: "#E5E0FF",
         eunoiatext: "#674188",
       }
     },
